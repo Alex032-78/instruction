@@ -6,8 +6,14 @@
 Команда которая создаёт локальный репозиторий
 
 Если вы до этого не вводили имя/почту, то нужно их добавить:
-> git config --global user.name "Имя"
+> git config --global user.name "Name"
 
 > git config --global user.email some@mail.com
 
+
+## Добавление изменений ##
+Для того, чтобы начать отслеживать файл с именем fail_name:
+> git add fail_name
+И чтобы зафиксировать все файлы, которые мы отслеживаем:
+> git commit -m "same message"
 
