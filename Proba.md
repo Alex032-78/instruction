@@ -42,4 +42,4 @@ commit_code - код коммита, который можно посмотре�
 
 > git checkout master
 
-![text](Gomer.jpg)
+![Упс...](Gomer.jpg)
